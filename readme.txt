@@ -52,7 +52,7 @@ If you have to upgrade manually simply repeat the installation steps and re-enab
 
 = I have an issue with the plugin =
 
-Please visit the [Support Forum] (http://www.polevaultweb.com/support/forum/set-list-plugin/) and see what has been raised before, if not raise a new topic.
+Please visit the [Support Forum](http://www.polevaultweb.com/support/forum/set-list-plugin/) and see what has been raised before, if not raise a new topic.
 
 = I have a feature request =
 
